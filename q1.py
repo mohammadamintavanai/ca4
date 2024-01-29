@@ -1,1 +1,1 @@
-print("hello")
+from keras.datasets import mnist
